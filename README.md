@@ -1,8 +1,8 @@
 1.  211/66/7/48
 
-2.  # 基于 python3.6 创建一个名为test_py3 的环境
+2.  基于 python3.6 创建一个名为test_py3 的环境
     conda create --name test_py3 python=3.6 
-    # 激活 test 环境
+    激活 test 环境
     source activate test_py3
     
 3. 先执行 python setup.py build
