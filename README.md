@@ -78,3 +78,5 @@ print(x)
 vi /etc/fstab
 
 19. echo xfce4-session >~/.xsession   # 远程桌面
+
+20. scp -r ShapeNetVox32/* lab-wang.xx@xx.xx.xx.xx:ShapeNet/ShapeNetVox32/
