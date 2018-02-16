@@ -62,3 +62,6 @@
 
 23 Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction
 # https://github.com/shubhtuls/mvcSnP
+
+24. AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation
+# https://github.com/ThibaultGROUEIX/AtlasNet
