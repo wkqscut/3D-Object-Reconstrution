@@ -1,11 +1,9 @@
-1 3dr2n2: A unified approach for single and multi-view 3d object Reconstruction
-# https://github.com/chrischoy/3D-R2N2
+# Single-image 3D reconstruction
+* 1 3dr2n2: A unified approach for single and multi-view 3d object Reconstruction(https://github.com/chrischoy/3D-R2N2)
 
-2 Learning a predictable and generative vector representation for objects
-# https://github.com/rohitgirdhar/GenerativePredictableVoxels
+* 2 Learning a predictable and generative vector representation for objects(https://github.com/rohitgirdhar/GenerativePredictableVoxels)
 
-3 Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling.
-# https://github.com/zck119/3dgan-release
+* 3 Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling.(https://github.com/zck119/3dgan-release)
 
 4 Perspective transformer nets: Learning single-view 3d object reconstruction without 3d supervision
 # https://github.com/xcyan/ptnbhwd
