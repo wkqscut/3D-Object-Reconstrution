@@ -46,3 +46,5 @@
 * 22 Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction(https://github.com/shubhtuls/mvcSnP)
 
 * 23 AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation(https://github.com/ThibaultGROUEIX/AtlasNet)
+
+* 24  Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images
