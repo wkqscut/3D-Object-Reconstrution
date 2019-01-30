@@ -33,11 +33,11 @@
 * 16 Neural 3D Mesh Renderer(https://github.com/hiroharu-kato/neural_renderer)
 （https://github.com/hiroharu-kato/mesh_reconstruction）
 
-* 17 Image2Mesh: A Learning Framework for Single Image 3DReconstruction
+* 17 Image2Mesh: A Learning Framework for Single Image 3DReconstruction(https://github.com/jhonykaesemodel/image2mesh)
 
 * 18 SurfNet: Generating 3D shape surfaces using deep residual networks(https://github.com/sinhayan/surfnet)
 
-* 19 Hierarchical Surface Prediction for 3D Object Reconstruction
+* 19 Hierarchical Surface Prediction for 3D Object Reconstruction(https://github.com/chaene/hsp)
 
 * 20 Multi-view 3D Models from Single Images with a Convolutional Network(https://github.com/lmb-freiburg/mv3d)
 
@@ -47,4 +47,10 @@
 
 * 23 AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation(https://github.com/ThibaultGROUEIX/AtlasNet)
 
-* 24  Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images
+* 24  Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images(https://github.com/nywang16/Pixel2Mesh)
+
+* 25 Multiresolution Tree Networks for 3D Point Cloud Processing(https://github.com/matheusgadelha/MRTNet)
+
+* 26 O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis(https://github.com/Microsoft/O-CNN)
+
+* 27. Learning Implicit Fields for Generative Shape Modeling(https://github.com/czq142857/implicit-decoder)
