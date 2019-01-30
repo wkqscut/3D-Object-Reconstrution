@@ -53,4 +53,4 @@
 
 * 26 O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis(https://github.com/Microsoft/O-CNN)
 
-* 27. Learning Implicit Fields for Generative Shape Modeling(https://github.com/czq142857/implicit-decoder)
+* 27 Learning Implicit Fields for Generative Shape Modeling(https://github.com/czq142857/implicit-decoder)
