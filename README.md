@@ -17,13 +17,13 @@
 |[Hierarchical Surface Prediction for 3D Object Reconstruction](https://github.com/chaene/hsp) | [3DV 2017](https://arxiv.org/pdf/1704.00710.pdf) | Torch 7 |
 |[Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs](https://github.com/lmb-freiburg/ogn) | [ICCV 2017](https://arxiv.org/pdf/1703.09438.pdf) | Caffe |
 |[Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency](https://github.com/shubhtuls/drc) | [CVPR 2017](https://arxiv.org/pdf/1704.06254.pdf) | Torch 7 |
-|[Learning a Hierarchical Latent-Variable Model of 3D Shapes](https://github.com/lorenmt/vsl) | [3DV 2018](https://arxiv.org/pdf/1705.05994.pdf) | Tensorflow |
 |[SurfNet: Generating 3D shape surfaces using deep residual networks](https://github.com/sinhayan/surfnet) | [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sinha_SurfNet_Generating_3D_CVPR_2017_paper.pdf) | Matlab |
 |[A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://github.com/fanhqme/PointSetGeneration)  | [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) | Tensorflow |
 |[O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis](https://github.com/Microsoft/O-CNN) | [SIGGRAPH 2017](https://wang-ps.github.io/O-CNN_files/CNN3D.pdf) | Caffe |
 |Rethinking Reprojection: Closing the Loop for Pose-aware Shape Reconstruction from a Single Image | [ICCV 2017](https://jerrypiglet.github.io/pdf/ICCV2017.pdf) | |
 |Scaling CNNs for High Resolution Volumetric Reconstruction From a Single Image | [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Johnston_Scaling_CNNs_for_ICCV_2017_paper.pdf) | |
 |Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55 | [ICCV 2017](https://arxiv.org/pdf/1710.06104.pdf) | |
+|[Learning a Hierarchical Latent-Variable Model of 3D Shapes](https://github.com/lorenmt/vsl) | [3DV 2018](https://arxiv.org/pdf/1705.05994.pdf) | Tensorflow |
 |[Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction](https://github.com/ericlin79119/3D-point-cloud-generation) | [AAAI 2018](https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/paper.pdf) | Tensorflow |
 |[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image](https://github.com/jackd/template_ffd) | [ACCV 2018](https://jhonykaesemodel.com/papers/learning_ffd_accv2018-camera_ready.pdf) | Tensorflow |
 |[Image2Mesh: A Learning Framework for Single Image 3DReconstruction](https://github.com/jhonykaesemodel/image2mesh) | [ACCV 2018](https://arxiv.org/pdf/1711.10669.pdf) | Pytorch |
