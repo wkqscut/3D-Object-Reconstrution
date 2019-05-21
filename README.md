@@ -1,11 +1,6 @@
 # Single-image 3D reconstruction [![Awesome]
 
-
-<p align="center">
-    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
-</p>
-
-| [Project Page](https://wkqscut.github.io/3d-reconstrution/)
+<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a> | [Project Page](https://wkqscut.github.io/3d-reconstrution/)
 
 | Project |  Language | License |
 | ---  | --- | --- |
