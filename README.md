@@ -5,8 +5,8 @@
 | Project | Paper | Framework
 | ---  | --- | --- |
 |[3dr2n2: A unified approach for single and multi-view 3d object Reconstruction](https://github.com/chrischoy/3D-R2N2) | [ECCV 2016](https://arxiv.org/abs/1604.00449) | Theano |
-[Learning a predictable and generative vector representation for objects](https://github.com/rohitgirdhar/GenerativePredictableVoxels) | []() | |
-[]() | []() | |
+[Learning a predictable and generative vector representation for objects](https://github.com/rohitgirdhar/GenerativePredictableVoxels) | [ECCV 2016](https://arxiv.org/abs/1603.08637) | Caffe |
+[Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling](https://github.com/zck119/3dgan-release) | [NIPS 2016](http://3dgan.csail.mit.edu/papers/3dgan_nips.pdf) | Torch 7 |
 []() | []() | |
 []() | []() | |
 []() | []() | |
