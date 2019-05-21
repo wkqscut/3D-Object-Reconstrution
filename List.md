@@ -28,8 +28,7 @@
 
 * 14 [Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction](https://github.com/ericlin79119/3D-point-cloud-generation)
 
-* 15 [DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]
-(https://github.com/jackd/template_ffd)
+* 15 [DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image](https://github.com/jackd/template_ffd)
 
 * 16 [Neural 3D Mesh Renderer](https://github.com/hiroharu-kato/mesh_reconstruction)
 
