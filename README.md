@@ -3,10 +3,20 @@
 
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
-    <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
 </p>
 
 | [Project Page](https://wkqscut.github.io/3d-reconstrution/)
+
+| Project |  Language | License |
+| ---  | --- | --- |
+|[Colmap](https://github.com/colmap/colmap) | C++ CUDA |GNU General Public License - contamination|
+[GPUIma + fusibile](https://github.com/kysucix) | C++ CUDA | GNU General Public License - contamination|
+[HPMVS](https://github.com/alexlocher/hpmvs) | C++ | GNU General Public License - contamination|
+|[MICMAC](http://logiciels.ign.fr/?Micmac) | C++ | CeCILL-B |
+[MVE](https://github.com/simonfuhrmann/mve) | C++ | BSD 3-Clause license + parts under the GPL 3 license|
+[OpenMVS](https://github.com/cdcseacave/openMVS/) | C++  (CUDA optional) | AGPL3|
+[PMVS](https://github.com/pmoulon/CMVS-PMVS) | C++ CUDA | GNU General Public License - contamination|
+[SMVS Shading-aware Multi-view Stereo](https://github.com/flanggut/smvs) | C++ | BSD-3-Clause license |
 
 >Papers with code  
 
