@@ -25,40 +25,39 @@
 
 * 11 [Scaling CNNs for High Resolution Volumetric Reconstruction From a Single Image]
 
-* 12 Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55
+* 12 [Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55]
 
-* 13 A Point Set Generation Network for 3D Object Reconstruction from a Single Image(https://github.com/fanhqme/PointSetGeneration) 
+* 13 [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://github.com/fanhqme/PointSetGeneration) 
 
-* 14 Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction(https://github.com/ericlin79119/3D-point-cloud-generation)
+* 14 [Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction](https://github.com/ericlin79119/3D-point-cloud-generation)
 
-* 15 DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image
+* 15 [DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]
 (https://github.com/jackd/template_ffd)
 
-* 16 Neural 3D Mesh Renderer(https://github.com/hiroharu-kato/neural_renderer)
-（https://github.com/hiroharu-kato/mesh_reconstruction）
+* 16 [Neural 3D Mesh Renderer](https://github.com/hiroharu-kato/mesh_reconstruction)
 
-* 17 Image2Mesh: A Learning Framework for Single Image 3DReconstruction(https://github.com/jhonykaesemodel/image2mesh)
+* 17 [Image2Mesh: A Learning Framework for Single Image 3DReconstruction](https://github.com/jhonykaesemodel/image2mesh)
 
-* 18 SurfNet: Generating 3D shape surfaces using deep residual networks(https://github.com/sinhayan/surfnet)
+* 18 [SurfNet: Generating 3D shape surfaces using deep residual networks](https://github.com/sinhayan/surfnet)
 
-* 19 Hierarchical Surface Prediction for 3D Object Reconstruction(https://github.com/chaene/hsp)
+* 19 [Hierarchical Surface Prediction for 3D Object Reconstruction](https://github.com/chaene/hsp)
 
-* 20 Multi-view 3D Models from Single Images with a Convolutional Network(https://github.com/lmb-freiburg/mv3d)
+* 20 [Multi-view 3D Models from Single Images with a Convolutional Network](https://github.com/lmb-freiburg/mv3d)
 
-* 21 Single Image 3D Interpreter Network (https://github.com/jiajunwu/3dinn)
+* 21 [Single Image 3D Interpreter Network](https://github.com/jiajunwu/3dinn)
 
-* 22 Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction(https://github.com/shubhtuls/mvcSnP)
+* 22 [Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction](https://github.com/shubhtuls/mvcSnP)
 
-* 23 AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation(https://github.com/ThibaultGROUEIX/AtlasNet)
+* 23 [AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation](https://github.com/ThibaultGROUEIX/AtlasNet)
 
-* 24  Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images(https://github.com/nywang16/Pixel2Mesh)
+* 24 [Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images](https://github.com/nywang16/Pixel2Mesh)
 
-* 25 Multiresolution Tree Networks for 3D Point Cloud Processing(https://github.com/matheusgadelha/MRTNet)
+* 25 [Multiresolution Tree Networks for 3D Point Cloud Processing](https://github.com/matheusgadelha/MRTNet)
 
-* 26 O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis(https://github.com/Microsoft/O-CNN)
+* 26 [O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis](https://github.com/Microsoft/O-CNN)
 
-* 27 Learning Implicit Fields for Generative Shape Modeling (https://github.com/czq142857/implicit-decoder)
+* 27 [Learning Implicit Fields for Generative Shape Modeling](https://github.com/czq142857/implicit-decoder)
 
 * 28 [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks) [CVPR 2019]
 
-* 29 DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation (https://github.com/hassony2/shape_sdf)
+* 29 [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://github.com/hassony2/shape_sdf)
