@@ -4,7 +4,7 @@
 
 | Project | Paper | Framework
 | ---  | --- | --- |
-|[3D-R2N2](https://github.com/chrischoy/3D-R2N2) | [ECCV 2016](https://arxiv.org/abs/1604.00449) | Theano |
+|[3dr2n2: A unified approach for single and multi-view 3d object Reconstruction](https://github.com/chrischoy/3D-R2N2) | [ECCV 2016](https://arxiv.org/abs/1604.00449) | Theano |
 [GPUIma + fusibile](https://github.com/kysucix) | C++ CUDA | GNU General Public License - contamination|
 [HPMVS](https://github.com/alexlocher/hpmvs) | C++ | GNU General Public License - contamination|
 |[MICMAC](http://logiciels.ign.fr/?Micmac) | C++ | CeCILL-B |
