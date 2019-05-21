@@ -1,4 +1,7 @@
 # Single-image 3D reconstruction
+
+**Papers with code**  
+
 * 1 3dr2n2: A unified approach for single and multi-view 3d object Reconstruction(https://github.com/chrischoy/3D-R2N2)
 
 * 2 Learning a predictable and generative vector representation for objects(https://github.com/rohitgirdhar/GenerativePredictableVoxels)
@@ -56,4 +59,6 @@
 
 * 27 Learning Implicit Fields for Generative Shape Modeling(https://github.com/czq142857/implicit-decoder)
 
-* 28 DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation
+* 28 Occupancy Networks: Learning 3D Reconstruction in Function Space(https://github.com/autonomousvision/occupancy_networks) [CVPR 2019]
+
+* 29 DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation(https://github.com/hassony2/shape_sdf)
