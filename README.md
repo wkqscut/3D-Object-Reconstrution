@@ -2,28 +2,28 @@
 
 **Papers with code**  
 
-* 1 3dr2n2: A unified approach for single and multi-view 3d object Reconstruction(https://github.com/chrischoy/3D-R2N2)
+* 1 [3dr2n2: A unified approach for single and multi-view 3d object Reconstruction](https://github.com/chrischoy/3D-R2N2)
 
-* 2 Learning a predictable and generative vector representation for objects(https://github.com/rohitgirdhar/GenerativePredictableVoxels)
+* 2 [Learning a predictable and generative vector representation for objects](https://github.com/rohitgirdhar/GenerativePredictableVoxels)
 
-* 3 Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling.(https://github.com/zck119/3dgan-release)
+* 3 [Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling](https://github.com/zck119/3dgan-release)
 
-* 4 Perspective transformer nets: Learning single-view 3d object reconstruction without 3d supervision(https://github.com/xcyan/ptnbhwd)  (https://github.com/xcyan/nips16_PTN)
+* 4 [Perspective transformer nets: Learning single-view 3d object reconstruction without 3d supervision](https://github.com/xcyan/ptnbhwd)  (https://github.com/xcyan/nips16_PTN)
 
-* 5 Deep disentangled representations for volumetric reconstruction
+* 5 [Deep disentangled representations for volumetric reconstruction]
 
-* 6 Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs(https://github.com/lmb-freiburg/ogn)
+* 6 [Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs](https://github.com/lmb-freiburg/ogn)
 
-* 7 Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency(https://github.com/shubhtuls/drc)
+* 7 [Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency](https://github.com/shubhtuls/drc)
 
-* 8 Learning a Hierarchical Latent-Variable Model of 3D Shapes(https://github.com/lorenmt/vsl)
+* 8 [Learning a Hierarchical Latent-Variable Model of 3D Shapes](https://github.com/lorenmt/vsl)
 
-* 9 Weakly-Supervised Generative Adversarial Networks for 3D Reconstruction
-(Weakly Supervised 3D Reconstruction with Adversarial Constraint)(https://github.com/jgwak/McRecon)
+* 9 [Weakly-Supervised Generative Adversarial Networks for 3D Reconstruction
+(Weakly Supervised 3D Reconstruction with Adversarial Constraint)](https://github.com/jgwak/McRecon)
 
-* 10 Rethinking Reprojection: Closing the Loop for Pose-aware Shape Reconstruction from a Single Image
+* 10 [Rethinking Reprojection: Closing the Loop for Pose-aware Shape Reconstruction from a Single Image]
 
-* 11 Scaling CNNs for High Resolution Volumetric Reconstruction From a Single Image
+* 11 [Scaling CNNs for High Resolution Volumetric Reconstruction From a Single Image]
 
 * 12 Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55
 
