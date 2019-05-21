@@ -5,13 +5,22 @@
 | Project | Paper | Framework
 | ---  | --- | --- |
 |[3dr2n2: A unified approach for single and multi-view 3d object Reconstruction](https://github.com/chrischoy/3D-R2N2) | [ECCV 2016](https://arxiv.org/abs/1604.00449) | Theano |
-[GPUIma + fusibile](https://github.com/kysucix) | C++ CUDA | GNU General Public License - contamination|
-[HPMVS](https://github.com/alexlocher/hpmvs) | C++ | GNU General Public License - contamination|
-|[MICMAC](http://logiciels.ign.fr/?Micmac) | C++ | CeCILL-B |
-[MVE](https://github.com/simonfuhrmann/mve) | C++ | BSD 3-Clause license + parts under the GPL 3 license|
-[OpenMVS](https://github.com/cdcseacave/openMVS/) | C++  (CUDA optional) | AGPL3|
-[PMVS](https://github.com/pmoulon/CMVS-PMVS) | C++ CUDA | GNU General Public License - contamination|
-[SMVS Shading-aware Multi-view Stereo](https://github.com/flanggut/smvs) | C++ | BSD-3-Clause license |
+[Learning a predictable and generative vector representation for objects](https://github.com/rohitgirdhar/GenerativePredictableVoxels) | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
+[]() | []() | |
 
 >Papers with code  
 
