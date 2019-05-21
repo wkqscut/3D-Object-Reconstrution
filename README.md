@@ -21,8 +21,7 @@ Scaling CNNs for High Resolution Volumetric Reconstruction From a Single Image |
 Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55 | []() | []() |
 [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://github.com/fanhqme/PointSetGeneration)  | []() | []() |
 [Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction](https://github.com/ericlin79119/3D-point-cloud-generation) | []() | []() |
-[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]
-(https://github.com/jackd/template_ffd)
+[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image](https://github.com/jackd/template_ffd)
  | []() | []() |
 [Neural 3D Mesh Renderer](https://github.com/hiroharu-kato/mesh_reconstruction) | []() | []() |
 [Image2Mesh: A Learning Framework for Single Image 3DReconstruction](https://github.com/jhonykaesemodel/image2mesh) | []() | []() |
@@ -31,7 +30,7 @@ Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55 | []()
 [Multi-view 3D Models from Single Images with a Convolutional Network](https://github.com/lmb-freiburg/mv3d) | []() | []() |
 [O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis](https://github.com/Microsoft/O-CNN) | []() | []() |
 [Learning Implicit Fields for Generative Shape Modeling](https://github.com/czq142857/implicit-decoder) | []() | []() |
-[Occupancy Networks: Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks) [CVPR 2019] | []() | []() |
+[Occupancy Networks: Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks) | [CVPR 2019]() | []() |
 [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://github.com/hassony2/shape_sdf) | []() | []() |
 []() | []() | []() |
 []() | []() | []() |
@@ -96,6 +95,6 @@ Large-Scale 3D Shape Reconstruction and Segmentation from ShapeNet Core55 | []()
 
 * 27 [Learning Implicit Fields for Generative Shape Modeling](https://github.com/czq142857/implicit-decoder)
 
-* 28 [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks) [CVPR 2019]
+* 28 [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks)
 
 * 29 [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://github.com/hassony2/shape_sdf)
