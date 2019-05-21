@@ -59,6 +59,6 @@
 
 * 27 Learning Implicit Fields for Generative Shape Modeling (https://github.com/czq142857/implicit-decoder)
 
-* 28 Occupancy Networks: Learning 3D Reconstruction in Function Space (https://github.com/autonomousvision/occupancy_networks) [CVPR 2019]
+* 28 [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks) [CVPR 2019]
 
 * 29 DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation (https://github.com/hassony2/shape_sdf)
