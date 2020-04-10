@@ -36,4 +36,4 @@
 |Adaptive O-CNN: A Patch-based Deep Representation of 3D Shapes| [SIGGRAPH Asia 2018](https://wang-ps.github.io/AO-CNN_files/AOCNN.pdf)| |
 |[Learning Implicit Fields for Generative Shape Modeling](https://github.com/czq142857/implicit-decoder) | [CVPR 2019](https://arxiv.org/pdf/1812.02822.pdf) | Tensorflow |
 |[Occupancy Networks: Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks) | [CVPR 2019](https://arxiv.org/pdf/1812.03828.pdf) | Pytorch |
-|[DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://github.com/hassony2/shape_sdf) | [CVPR 2019](https://arxiv.org/pdf/1901.05103.pdf) | Pytorch |
+|[DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://github.com/facebookresearch/DeepSDF) | [CVPR 2019](https://arxiv.org/pdf/1901.05103.pdf) | Pytorch |
